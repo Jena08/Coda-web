@@ -1,0 +1,16 @@
+.title {
+    color: #02ccba;
+}
+.cdt {
+  background-color: black;
+
+  }
+  #jct_sample {
+    height: 80px;
+    line-height: 80px;
+    margin-bottom: 40px;
+    }
+    #jct_sample span {
+    font-size: 150%;
+    color: #00FF00;
+    }
