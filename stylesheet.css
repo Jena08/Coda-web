@@ -1,8 +1,14 @@
-.title {
-    color: #02ccba;
+header{
+    background-color: black;
+    height: 65px;
 }
+.top-wrapper{
+    background-color: black;
+    color: white;
+    text-align:center
+}
+
 .cdt {
-  background-color: black;
 
   }
   #jct_sample {
@@ -14,3 +20,8 @@
     font-size: 150%;
     color: #00FF00;
     }
+
+footer{
+    background-color: black;
+    height: 65px;
+}    
