@@ -1,11 +1,18 @@
 header{
     background-color: black;
-    height: 65px;
+    height: 75px;
+}
+.header-logo{
+    width:80px;
+    padding:10px;
+}
+.header-center{
+    text-align:center;
 }
 .top-wrapper{
     background-color: black;
     color: white;
-    text-align:center
+    text-align:center;
 }
 
 .cdt {
@@ -24,4 +31,8 @@ header{
 footer{
     background-color: black;
     height: 65px;
+    padding:17px;
 }    
+.logo-l{
+    width:100px;
+}
