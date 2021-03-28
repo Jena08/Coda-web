@@ -1,15 +1,14 @@
-header{
-    background-color: black;
-    height: 75px;
-}
+
 .header-logo{
     width:80px;
     padding:10px;
 }
 .header-center{
     text-align:center;
+    background-color: black;
 }
 .top-wrapper{
+    font-family: serif;
     background: black;
     color: white;
     text-align:center;
@@ -38,7 +37,9 @@ header{
     font-size: 150%;
     color: #00FF00;
     }
-
+.information-wrapper{
+    font-family: serif;
+}
 footer{
     background-color: black;
     height: 65px;
