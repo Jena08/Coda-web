@@ -1,4 +1,13 @@
 @media (max-width:670px) {
+    .news-title h1{
+        font-size: 24px;
+    }
+    
+    .cdt{
+        width: 100%;
+        font-size: 14px;
+    }
+
     .information-wrapper{
         margin-left: 30px;
         margin-right: 30px;
@@ -10,4 +19,8 @@
     .i-contents ul{
         padding-left: 15px;
     }
+    .logo-l{
+        padding-left: 30px;
+    }
+    
 }
