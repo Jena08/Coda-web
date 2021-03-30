@@ -1,3 +1,8 @@
+@media (min-width:670px){
+    .bro{
+        display:none;
+    }
+}
 @media (max-width:670px) {
     .news-title h1{
         font-size: 28px;

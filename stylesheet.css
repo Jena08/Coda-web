@@ -56,9 +56,7 @@ padding-top: 20px;
     margin-bottom: 0px;
     font-weight: normal;
 }
-.bro{
-    display:none;
-}
+
 .css-br::after {
     content: "A" ;
     white-space: pre;
