@@ -57,10 +57,7 @@ padding-top: 20px;
     font-weight: normal;
 }
 
-.css-br::after {
-    content: "A" ;
-    white-space: pre;
-  }
+
 .cdt {
 
   }
